@@ -1,7 +1,7 @@
 {
-    "name": "hongniu hongniu.com",
-    "url": "https://www.hongniuzy2.com",
-    "httpApi": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+    "name": "小熊电影 xxdy123.com",
+    "url": "https://xxdy123.com/",
+    "httpApi": "https://www.xxdy123.com/api.php/provide/vod/at/xml/",
     "type": "视频",
-    "jump": "https://www.baidu.com"
+    "jump": "https://xxdy123.com"
 }
